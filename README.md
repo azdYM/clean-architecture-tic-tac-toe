@@ -8,7 +8,7 @@ L'objectif principal de ce projet est d'explorer la mise en œuvre de l'architec
 
 ## Inspiration
 
-Ce projet est inspiré du tutoriel officiel sur Tic-Tac-Toe de la documentation React, disponible ici [lien](https://react.dev/learn/tutorial-tic-tac-toe). De plus, l'article Clean Architecture with React [lien](https://betterprogramming.pub/clean-architecture-with-react-cc097a08b105) a été une ressource précieuse pour guider le processus de mise en œuvre de l'architecture propre dans ce projet.
+Ce projet est inspiré du tutoriel officiel sur Tic-Tac-Toe de la documentation React, disponible [ici](https://react.dev/learn/tutorial-tic-tac-toe). De plus, [l'article Clean Architecture with React](https://betterprogramming.pub/clean-architecture-with-react-cc097a08b105) a été une ressource précieuse pour guider le processus de mise en œuvre de l'architecture propre dans ce projet.
 
 ## Comment démarrer
 
